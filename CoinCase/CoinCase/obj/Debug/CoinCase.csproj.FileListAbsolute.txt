@@ -1,0 +1,10 @@
+D:\UserDatas2\desktop\CoinCase\CoinCase\obj\Debug\CoinCase.csprojResolveAssemblyReference.cache
+D:\UserDatas2\desktop\CoinCase\CoinCase\obj\Debug\CoinCase.Form1.resources
+D:\UserDatas2\desktop\CoinCase\CoinCase\obj\Debug\CoinCase.Properties.Resources.resources
+D:\UserDatas2\desktop\CoinCase\CoinCase\obj\Debug\CoinCase.csproj.GenerateResource.cache
+D:\UserDatas2\desktop\CoinCase\CoinCase\obj\Debug\CoinCase.csproj.CoreCompileInputs.cache
+D:\UserDatas2\desktop\CoinCase\CoinCase\bin\Debug\CoinCase.exe.config
+D:\UserDatas2\desktop\CoinCase\CoinCase\bin\Debug\CoinCase.exe
+D:\UserDatas2\desktop\CoinCase\CoinCase\bin\Debug\CoinCase.pdb
+D:\UserDatas2\desktop\CoinCase\CoinCase\obj\Debug\CoinCase.exe
+D:\UserDatas2\desktop\CoinCase\CoinCase\obj\Debug\CoinCase.pdb
